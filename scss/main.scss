@@ -2,6 +2,7 @@
 
 @import "variables";
 @import "typography";
+@import "/scss/blocks/column.module.scss";
 
 body {
 	color: $color-black;
