@@ -17,6 +17,7 @@ function Header({
   const menuItems = [
     { title: 'Home', href: '/' },
     { title: 'About', href: '/about' },
+    { title: 'Contact', href: '/contact' },
     { title: 'Posts', href: '/category/uncategorized' },
     {
       title: 'GitHub',
