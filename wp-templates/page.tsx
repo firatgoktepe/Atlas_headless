@@ -22,8 +22,10 @@ export default function Page(): JSX.Element {
             </div>
           )}
         </div>
+
       </main>
       <Footer copyrightHolder={settings?.title} />
     </>
   );
-}
+};
+
