@@ -7,6 +7,7 @@ const templates: Templates<NextTemplate> = {
   index: import('./index'),
   category: import('./category'),
   page: import('./page'),
+  'page-home': import('./page-home'),
   single: import('./single'),
 };
 
