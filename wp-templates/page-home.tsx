@@ -24,9 +24,6 @@ export default function Page(): JSX.Element {
 
   const { data } = useQuery(queryDevelopers);
   const developers = data?.page?.developers ?? [];
- console.log({data});
-  console.log(developers);
-   
   
   return (
     <>
