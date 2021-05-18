@@ -1,5 +1,7 @@
 # Headless WordPress Getting Started Example
 
+Headless CMS (WordPress) by using Next.j 
+
 ## Setup
 
 See the [setup steps](https://github.com/wpengine/headless-framework#quick-start).
