@@ -1,6 +1,7 @@
 # Headless WordPress Getting Started Example
 
 Headless CMS (WordPress) by using Next.js
+This is a test purpose
 
 ## Setup
 
